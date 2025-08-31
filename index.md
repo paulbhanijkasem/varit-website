@@ -5,7 +5,7 @@ title: "Paul Bhanijkasem"
 
 ## 👋 About Me
 
-My name is Varit Bhanijkasem. I usually go by Paul. I am a Ph.D. student in Economics at the University of Virginia, with prior experience as a Senior Economist at the Bank of Thailand. My work focuses on macro-financial linkages, credit markets, and the role of non-bank financial institutions (NBFIs) in monetary transmission.
+My name is Varit Bhanijkasem, though I usually go by Paul. I am a Ph.D. student in Economics at the University of Virginia, with prior experience as a Senior Economist at the Bank of Thailand. My work focuses on macro-financial linkages, credit markets, and the role of non-bank financial institutions (NBFIs) in monetary transmission.
 
 ## 🔬 Research Interests
 My interest evolves over time. Here are what I am currently interested in. 
