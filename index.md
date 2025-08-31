@@ -1,23 +1,26 @@
 ---
 layout: homepage
+title: "Paul Bhanijkasem"
 ---
 
-## About Me
+## 👋 About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in Economics at the University of Virginia, with prior experience as a Senior Economist at the Bank of Thailand. My work focuses on macro-financial linkages, credit markets, and the role of non-bank financial institutions (NBFIs) in monetary transmission.
 
-## Research Interests
+## 🔬 Research Interests
+My interest evolves over time. Here are what I am currently interested in. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Monetary Policy & Credit**: Credit rationing, financial frictions, transmission channels  
+- **Macroeconometrics**: Dynamic factor models, Bayesian methods, nowcasting  
+- **Banking & Financial Systems**: Role of NBFIs, credit risk, financial stability
 
-## News
+## 🗞️ News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2025]** Joined the Ph.D. in Economics program at UVA.
+- **[Jul. 2025]** Presenting my paper on SME credit rationing at PIER research workshop.
+- **[Jul. 2024]** Concluded four years of central banking experience at the Bank of Thailand.
 
-{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+<!-- {% include_relative _includes/publications.md %} -->
+
+#{% include_relative _includes/services.md %}

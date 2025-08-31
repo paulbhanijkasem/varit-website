@@ -1,16 +1,11 @@
-## Services
+## Non-Research Professional Engagements
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+- **Liaison Officer**, Monetary Policy Committee (Jan 2024 – Aug 2025)
+<span style="font-size: 90%;">Served as the personal liaison to Dr. Santitarn Sathirathai during his advisory role in the MPC.</span>
+- **Conference Delegate Coordinator**  
+  <span style="font-size: 90%;">Managed inbound protocol and logistics for international delegations at central bank–hosted events</span>:
+  - [*30th EMEAP Governors' Meeting (2025)*](https://www.bot.or.th/en/news-and-media/news/news-20250722.html)<br> 
+    <span style="font-size: 90%;">Assisted delegations from the Indonesian Financial Services Authority (OJK), including Chairman Mahendra Siregar.</span>
+  - [*BOT–BIS Central Bank Conference (2022)*](https://www.bis.org/events/bot-80th-anniversary-conference.htm)<br>
+    <span style="font-size: 90%;">Assisted delegations from the European Central Bank, including President Christine Lagarde.</span>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-</ul>

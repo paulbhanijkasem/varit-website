@@ -1,0 +1,3 @@
+[submodule "themes/minimal-light"]
+	path = themes/minimal-light
+	url = https://github.com/yaoyao-liu/minimal-light.git
