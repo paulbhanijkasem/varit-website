@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Paul (Varit) Bhanijkasem
+title: Varit (Paul) Bhanijkasem
 description: Ph.D. student in Economics at the University of Virginia studying macro-finance, credit markets, and monetary transmission.
 ---
 
@@ -8,7 +8,7 @@ description: Ph.D. student in Economics at the University of Virginia studying m
   <div class="shell hero-grid">
     <div class="hero-copy">
       <p class="eyebrow">Economist · Researcher</p>
-      <h1>Paul <span>(Varit)</span><br>Bhanijkasem</h1>
+      <h1>Varit <span>(Paul)</span><br>Bhanijkasem</h1>
       <p class="hero-lede">I study how credit markets and financial institutions shape the transmission of monetary policy.</p>
       <div class="hero-actions">
         <a class="button button-primary" href="#research">Explore my research <span aria-hidden="true">↓</span></a>
@@ -16,7 +16,7 @@ description: Ph.D. student in Economics at the University of Virginia studying m
       </div>
     </div>
     <div class="portrait-wrap">
-      <div class="portrait-frame"><img src="{{ site.avatar | relative_url }}" alt="Portrait of Paul Varit Bhanijkasem"></div>
+      <div class="portrait-frame"><img src="{{ site.avatar | relative_url }}" alt="Portrait of Varit Paul Bhanijkasem"></div>
       <div class="affiliation-card">
         <div class="affiliation-heading">
           <span class="status-dot" aria-hidden="true"></span>
