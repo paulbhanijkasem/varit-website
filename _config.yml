@@ -1,57 +1,44 @@
-# Basic Information 
 title: Paul (Varit) Bhanijkasem
-position: Ph.D. Student
+position: Ph.D. Student in Economics
 affiliation: University of Virginia
-email: bhanijkasemv41@gmail.com #(at) example.edu
+affiliation_link: https://economics.virginia.edu/
+email: bhanijkasemv41@gmail.com
 
-# Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+url: https://paulbhanijkasem.github.io
+baseurl: /varit-website
+canonical: https://paulbhanijkasem.github.io/varit-website/
+description: Ph.D. student in Economics at the University of Virginia studying macro-finance, credit markets, and monetary transmission.
+keywords: Paul Varit Bhanijkasem, economics, macro-finance, monetary policy, credit markets, University of Virginia
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=sVGAayAAAAAJ&hl=en
-cv_link: assets/files/curriculum_vitae.pdf
+cv_link: /assets/files/curriculum_vitae.pdf
 github_link: https://github.com/paulbhanijkasem/
 linkedin: https://www.linkedin.com/in/paul-varit-bhanijkasem-774328157/
-twitter: https://twitter.com/
+avatar: /assets/img/avatar.png
+favicon: /assets/img/uva_usethis.png
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/uva_usethis.png
-favicon_dark: ./assets/img/uva_usethis.png
+collections:
+  notes:
+    output: true
+    permalink: /notes/:name/
 
-# Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+defaults:
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: note
 
-# Auto Dark Mode
-# You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+markdown: kramdown
+permalink: pretty
 
-# Font
-# You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
-
-# Use this project as a remote theme for GitHub Pages
-# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-remote_theme: yaoyao-liu/minimal-light
-
-# The following files will be removed from the generated website.
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - README_de.md
   - README_zh_Hans.md
   - README_zh_Hant.md
-  - README_de.md
   - LICENSE
-  - minimal-light.gemspec
+  - NOTES_GUIDE.md
   - html_source_file/

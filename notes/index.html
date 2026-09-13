@@ -1,0 +1,21 @@
+---
+layout: homepage
+title: Notes
+description: Short notes on economics, research methods, and questions I am exploring.
+permalink: /notes/
+---
+<section class="page-hero">
+  <div class="shell"><p class="eyebrow">Writing &amp; ideas</p><h1>Notes</h1><p class="lede">Short pieces on economics, research methods, and questions I am exploring. New notes are written in Markdown.</p></div>
+</section>
+<section class="notes-list">
+  <div class="shell">
+    {% assign published_notes = site.notes | where_exp: "note", "note.published != false" | sort: "date" | reverse %}
+    {% if published_notes.size > 0 %}
+      {% for note in published_notes %}
+        <a class="note-row" href="{{ note.url | relative_url }}"><time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%b %-d, %Y" }}</time><div><h2>{{ note.title }}</h2><p>{{ note.description }}</p></div><span aria-hidden="true">↗</span></a>
+      {% endfor %}
+    {% else %}
+      <div class="empty-notes"><strong>Notes are coming soon.</strong><br>This page is ready for future Markdown posts.</div>
+    {% endif %}
+  </div>
+</section>
