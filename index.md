@@ -14,18 +14,25 @@ description: Ph.D. student in Economics at the University of Virginia studying m
         <a class="button button-primary" href="#research">Explore my research <span aria-hidden="true">↓</span></a>
         <a class="button button-secondary" href="{{ site.cv_link | relative_url }}">Download CV <span aria-hidden="true">↗</span></a>
       </div>
-      <div class="hero-links" aria-label="Professional links">
-        <a href="{{ site.google_scholar }}">Google Scholar</a>
-        <a href="{{ site.github_link }}">GitHub</a>
-        <a href="{{ site.linkedin }}">LinkedIn</a>
-        <a href="mailto:{{ site.email }}">Email</a>
-      </div>
     </div>
     <div class="portrait-wrap">
       <div class="portrait-frame"><img src="{{ site.avatar | relative_url }}" alt="Portrait of Paul Varit Bhanijkasem"></div>
       <div class="affiliation-card">
-        <span class="status-dot" aria-hidden="true"></span>
-        <div><strong>Ph.D. Student in Economics</strong><span>University of Virginia</span></div>
+        <div class="affiliation-heading">
+          <span class="status-dot" aria-hidden="true"></span>
+          <div><strong>Ph.D. Student in Economics</strong><span>University of Virginia</span></div>
+        </div>
+        <div class="hero-links" aria-label="Professional profiles and contact">
+          <a class="profile-link scholar-link" href="{{ site.google_scholar }}" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>
+          <a class="profile-link github-link" href="{{ site.github_link }}" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>
+          <a class="profile-link linkedin-link" href="{{ site.linkedin }}" target="_blank" rel="noopener" aria-label="LinkedIn" title="LinkedIn"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+          <a class="profile-link email-link" href="mailto:{{ site.email }}" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>
+          <!-- Optional Twitter/X link: add `twitter: https://x.com/your-handle` to _config.yml, then remove this comment wrapper.
+          {% if site.twitter %}
+          <a class="profile-link twitter-link" href="{{ site.twitter }}" target="_blank" rel="noopener" aria-label="Twitter / X" title="Twitter / X"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
+          {% endif %}
+          -->
+        </div>
       </div>
     </div>
   </div>
